@@ -141,9 +141,7 @@ The following steps were performed:
 
 ## 🚀 Future Improvements
 
-* Add deeper statistical analysis (correlation by segments, hypothesis testing)
 * Improve visualization storytelling and design
-* Build predictive models (e.g., cost prediction, patient risk analysis)
 * Include interactive dashboards (Power BI / Tableau)
 
 ---
